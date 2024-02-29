@@ -1,0 +1,1 @@
+# payslipsCapacitorApp
