@@ -36,6 +36,6 @@ index.tsx - routes
 
 ### Tested on all platforms Web/iOS/Android +
 
-![alt text](http://url/to/img.png](https://github.com/aposnov/payslipsCapacitorApp/blob/main/demo_payslip_app.jpg)https://github.com/aposnov/payslipsCapacitorApp/blob/main/demo_payslip_app.jpg)
 
+![Alt text](https://github.com/aposnov/payslipsCapacitorApp/blob/main/demo_payslip_app.jpg)
 
