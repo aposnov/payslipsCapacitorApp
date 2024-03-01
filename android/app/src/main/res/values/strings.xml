@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">payslipsApp</string>
+    <string name="title_activity_main">payslipsApp</string>
+    <string name="package_name">dev.aposnov.payslipsApp</string>
+    <string name="custom_url_scheme">dev.aposnov.payslipsApp</string>
+</resources>

@@ -1,0 +1,6 @@
+framework module CapacitorCommunityFileOpener {
+  umbrella header "CapacitorCommunityFileOpener-umbrella.h"
+
+  export *
+  module * { export * }
+}

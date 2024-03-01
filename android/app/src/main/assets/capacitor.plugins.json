@@ -1,0 +1,14 @@
+[
+	{
+		"pkg": "@capacitor-community/file-opener",
+		"classpath": "com.ryltsov.alex.plugins.file.opener.FileOpenerPlugin"
+	},
+	{
+		"pkg": "@capacitor/browser",
+		"classpath": "com.capacitorjs.plugins.browser.BrowserPlugin"
+	},
+	{
+		"pkg": "@capacitor/filesystem",
+		"classpath": "com.capacitorjs.plugins.filesystem.FilesystemPlugin"
+	}
+]
